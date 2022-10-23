@@ -1,0 +1,77 @@
+#content #adminform{
+	width: 	1000px;
+	float: left;
+}
+
+#content #adminform h1{
+	background: red;
+	text-align: center;
+	color: #fff;
+}
+
+#content #adminform .awarn{
+	padding-top: 50px;
+	text-align: center;
+	color: red;
+}
+
+#content #adminform #aerror{
+	padding-left: 20px;
+	padding-top: 10px;
+	font-size: 16px;
+	color: #fff;
+	font-weight: bold;
+}
+
+#content #adminform #login{
+	width: 450px;
+	min-height: 220px;
+	margin: 20px auto;
+	padding-bottom: 0.1px;
+	background:  red;
+	box-shadow: 0px 0px 1px 1px #212121;
+
+}
+
+#content #adminform #login input[type=text]{
+	width: 410px;
+	height: 40px;
+	padding-left: 20px;
+	margin-top: 10px;
+	margin-left: 20px;
+	font-size: 18px;
+	color: #667D8B;
+	border: none;
+	border-radius: 0;
+
+}
+
+#content #adminform #login input[type=password]{
+	width: 410px;
+	height: 40px;
+	padding-left: 20px;
+	margin-top: 30px;
+	margin-left: 20px;
+	font-size: 18px;
+	color: #667D8B;
+	border: none;
+	border-radius: 0;
+
+}
+
+#content #adminform #login input[type=button]{
+	display: block;
+	width: 150px;
+	height: 35px;
+	margin: 25px auto;
+	background: #bbb;
+	border: none;
+	cursor: pointer;
+	font-size: 15px;
+	color: #f00;
+	font-weight: bold;
+}
+
+#content #adminform #login input[type=button]:hover{
+	background: #fff;
+}

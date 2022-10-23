@@ -1,0 +1,117 @@
+#content #about{
+	width: 1000px;
+	height: 680px;
+	margin-top: 10px;
+	float: left;
+	font-family: "Arial";
+}
+
+#content #about #aboutus{
+	width: 100%;
+	height: 190px;
+	padding-top: 5px;
+	margin-bottom: 35px;
+	background: #212121;
+	border-left: 25px solid #673ab7;
+	color: #fff;
+}
+
+#content #about #aboutus h2{
+	padding-left: 10px;
+	text-decoration: underline;
+}
+
+#content #about #aboutus img{
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 15px;
+	width: 130px;
+	height: 130px;
+	float: left;
+}
+
+#content #about #aboutus p{
+	font-size: 17px;
+	line-height: 30px;
+	padding-top: 20px;
+	padding-right: 3px;
+}
+
+#content #about #contactus{
+	width: 100%;
+	height: 190px;
+	background: #212121;
+	margin-bottom: 35px;
+	color: #fff;
+	padding-top: 5px;
+	border-left: 25px solid #3f51b5;
+}
+
+#content #about #contactus h2{
+	padding-left: 10px;
+	text-decoration: underline;
+}
+
+#content #about #contactus img{
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 15px;
+	width: 130px;
+	height: 120px;
+	float: left;
+}
+
+#content #about #contactus #contact{
+	width: 800px;
+	height: 120px;
+	margin-top: 20px;
+	margin-right: 3px;
+	float: left;
+}
+
+#content #about #contactus #contact pre{
+	font-size: 17px;
+	line-height: 40px;
+	font-family: "Arial";
+}
+
+#content #about #contactus #contact pre span{
+	font-weight: bold;
+}
+
+#content #about #latestnews{
+	width: 100%;
+	height: 190px;
+	background: #212121;
+	color: #fff;
+	padding-top: 5px;
+	border-left: 25px solid #cddc39;
+}
+
+#content #about #latestnews h2{
+	padding-left: 10px;
+	text-decoration: underline;
+}
+
+#content #about #latestnews img{
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 15px;
+	width: 130px;
+	height: 130px;
+	float: left;
+}
+
+#content #about #latestnews #late{
+	width: 800px;
+	height: 120px;
+	margin-top: 20px;
+	padding-left: 30px;
+	margin-right: 3px;
+	float: left;
+}
+
+#content #about #latestnews #late ul li{
+	line-height: 22px;
+	font-size: 15px;
+}

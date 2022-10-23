@@ -1,0 +1,137 @@
+#content #view_cart{
+	width: 	1000px;
+	min-height: 600px;
+	float: left;
+}
+
+#content #view_cart #menu{
+	width: 330px;
+	margin: 10px 0 25px 20px;
+}
+
+#content #view_cart #menu #continue{
+	position: relative;
+	text-align: center;
+	font-family: "Arial";
+	width: 190px;
+	height: 45px;
+	background: #0d47a1;
+	float: left;
+	border-radius: 2px;
+}
+
+#content #view_cart #menu #continue:hover{
+	background: blue;
+}
+
+#content #view_cart #menu #continue .shopping{
+	line-height: 45px;
+	color: #fff;
+}
+
+#content #view_cart #menu #continue a{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+#content #view_cart #menu #del{
+	position: relative;
+	width: 120px;
+	height: 45px;
+	text-align: center;
+	background: #d50000;
+	float: left;
+	margin-left: 20px;
+	border-radius: 2px;
+}
+
+#content #view_cart #menu #del:hover{
+	background: red;
+}
+
+#content #view_cart #menu #del .dele{
+	line-height: 45px;
+	color: white;
+
+}
+
+#content #view_cart #menu a{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+#content #view_cart table{
+	margin: 20px;
+  	border-spacing: 1px; 
+  	background: #16A085;
+}
+
+#content #view_cart th { 
+  color: white;
+  padding: 8px; 
+}
+
+#content #view_cart table td{
+	background: white; 
+  	border-collapse: collapse;
+  	font-size: 19px;
+  	padding: 8px;
+  	font-family: "Arial";
+}
+
+#content #view_cart table td img{
+	width: 130px;
+	height: 60px;
+	border: 1px solid #000;
+}
+
+#content #view_cart table .total{
+	font-size: 20px;
+	padding: 20px 8px;
+	font-weight: bold;
+}
+
+#content #view_cart table .image{
+	padding: 5px;
+}
+
+#content #view_cart #order-form{
+	width: 980px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+#order-form h2 {
+  margin: 60px 0 10px 0;
+  padding: 0 0 5px 0;
+  border-bottom: 1px solid #ddd;
+  font-size: 18px;
+  color: #C0392B;
+}
+
+#order-form  label {
+  display: block;
+  margin-top: 20px;
+  color: #555;
+  font-weight: bold;
+}
+
+#order-form input[type=button] {
+  padding: 10px 49px;
+  margin-right: 10px;
+}
+
+#order-form .info{
+	width: 200px;
+	min-height: 10px;
+	font-size: 15px;
+	padding: 0 10px;
+	background: white;
+	border: 1px solid #bbb;
+}

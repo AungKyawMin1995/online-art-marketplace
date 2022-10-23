@@ -1,0 +1,60 @@
+#content #drawingreport{
+	width: 1000px;
+	min-height: 500px;
+	float: left;
+}
+
+#content #drawingreport h1{
+	background: #0288d1;
+	color: #fff;
+	padding-left: 10px;
+}
+
+#content #drawingreport table{
+	margin: 20px;
+  	border-spacing: 1px; 
+  	background: #16A085;
+}
+
+#content #drawingreport th { 
+  color: white;
+  padding: 10px; 
+}
+
+#content #drawingreport table td{
+	background: white; 
+  	border-collapse: collapse;
+  	font-size: 18px;
+  	padding: 8px;
+  	text-align: center;
+  	font-family: "Arial";
+}
+
+#content #drawingreport table td img{
+	width: 150px;
+	height: 80px;
+	border: 1px solid black;
+}
+
+#content #drawingreport table td button{
+	background: #D50000;
+	width: 100px;
+	height: 30px;
+	color: #fff;
+	font-family: "Arial";
+	border: none;
+	cursor: pointer;
+}
+
+#content #drawingreport table td button:hover{
+	background: red;
+}
+
+#content #drawingreport table td .edit{
+	margin-right: 15px;
+	background: #00c853;
+}
+
+#content #drawingreport table td .edit:hover{
+	background: green;
+}

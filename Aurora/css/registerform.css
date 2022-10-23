@@ -1,0 +1,153 @@
+#content #registform{
+	width: 	1000px;
+	height: 550px;
+	float: left;
+}
+
+#content #registform #customer{
+	width: 500px;
+	height: 550px;
+	float: left;
+	border-right: 1px solid gray;
+}
+
+#content #registform #customer h4{
+	font-size: 20px;
+	margin-left: 15px;
+	color: red;
+}
+
+#content #registform #customer p{
+	margin-left: 25px;
+	font-size: 15px;
+}
+
+#content #registform #customer #customerform{
+	width: 400px;
+	min-height: 360px;
+	margin: 30px auto;
+	padding-bottom: 0.1px;
+	background: #80cbc4;
+	box-shadow: 0px 0px 1px 1px #212121;
+}
+
+#content #registform #customer #customerform h3{
+	font-size: 25px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #455863;
+	background: #fff;
+}
+
+#content #registform #customer #customerform p{
+	font-size: 15px;
+	color: red;
+}
+
+#content #registform #customer #customerform input[type=text], input[type=password]{
+	width: 370px;
+	height: 30px;
+	padding-left: 20px;
+	margin-top: 15px;
+	margin-left: 15px;
+	font-size: 18px;
+	color: #667D8B;
+	border-radius: 5px;
+	border: none;
+}
+
+#content #registform #customer #customerform input[type=button]{
+	display: block;
+	width: 200px;
+	height: 35px;
+	margin: 25px auto;
+	background: #455863;
+	border: none;
+	cursor: pointer;
+	font-size: 15px;
+	color: white;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+#content #registform #staff{
+	width: 500px;
+	height: 550px;
+	float: left;
+}
+
+#content #registform #staff h4{
+	font-size: 20px;
+	margin-left: 15px;
+	color: red;
+}
+
+#content #registform #staff p{
+	margin-left: 25px;
+	font-size: 15px;
+}
+
+#content #registform #staff #staffform{
+	width: 400px;
+	min-height: 280px;
+	margin: 30px auto;
+	padding-bottom: 0.1px;
+	background: lightgreen;
+	box-shadow: 0px 0px 1px 1px #212121;
+}
+
+#content #registform #staff #staffform h3{
+	font-size: 25px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #455863;
+	background: #fff;
+}
+
+#content #registform #staff #staffform p{
+	font-size: 15px;
+	color: red;
+}
+
+#content #registform #staff #staffform input[type=text], input[type=password]{
+	width: 370px;
+	height: 30px;
+	padding-left: 20px;
+	margin-top: 15px;
+	margin-left: 15px;
+	font-size: 18px;
+	color: #667D8B;
+	border-radius: 5px;
+	border: none;
+}
+
+
+#content #registform #staff #staffform select{
+	width: 370px;
+	height: 30px;
+	padding-left: 20px;
+	margin-top: 20px;
+	margin-left: 15px;
+	font-size: 18px;
+	color: #667D8B;
+	border-radius: 5px;
+	border: none;
+}
+
+#content #registform #staff #staffform select option{
+	padding-left: 20px;
+}
+
+#content #registform #staff #staffform input[type=button]{
+	display: block;
+	width: 200px;
+	height: 35px;
+	margin: 25px auto;
+	background: #455863;
+	border: none;
+	cursor: pointer;
+	font-size: 15px;
+	color: white;
+	border-radius: 5px;
+	font-weight: bold;
+}

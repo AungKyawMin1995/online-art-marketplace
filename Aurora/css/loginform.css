@@ -1,0 +1,154 @@
+#content #loginform{
+	width: 	1000px;
+	height: 550px;
+	margin-top: 10px;
+	float: left;
+}
+
+#content #loginform #customerlogin{
+	width: 500px;
+	height: 550px;
+	float: left;
+	border-right: 1px solid gray;
+}
+
+#content #loginform #customerlogin h4{
+	font-size: 20px;
+	margin-left: 5px;
+	color: red;
+}
+
+#content #loginform #customerlogin p{
+	margin-left: 20px;
+	font-size: 15px;
+}
+
+#content #loginform #customerlogin #customerloginform{
+	width: 400px;
+	min-height: 200px;
+	margin: 20px 0px 0px 20px;
+	padding-bottom: 0.1px;
+	background: #80cbc4;
+	box-shadow: 0px 0px 1px 1px #212121;
+}
+
+#content #loginform #customerlogin #customerloginform h3{
+	font-size: 25px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #455863;
+	background: #fff;
+}
+
+#content #loginform #customerlogin #customerloginform p{
+	font-size: 15px;
+	color: red;
+}
+
+#content #loginform #customerlogin #customerloginform input[type=text], input[type=password]{
+	width: 370px;
+	height: 30px;
+	padding-left: 20px;
+	margin-top: 15px;
+	margin-left: 15px;
+	font-size: 18px;
+	color: #667D8B;
+	border-radius: 5px;
+	border: none;
+}
+
+#content #loginform #customerlogin #customerloginform input[type=button]{
+	display: block;
+	width: 150px;
+	height: 35px;
+	margin: 25px auto;
+	background: #455863;
+	border: none;
+	cursor: pointer;
+	font-size: 15px;
+	color: white;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+#content #loginform #stafflogin{
+	width: 500px;
+	height: 550px;
+	float: left;
+}
+
+#content #loginform #stafflogin h4{
+	font-size: 20px;
+	margin-left: 15px;
+	color: red;
+}
+
+#content #loginform #stafflogin p{
+	margin-left: 25px;
+	font-size: 15px;
+}
+
+#content #loginform #stafflogin #staffloginform{
+	width: 400px;
+	min-height: 280px;
+	margin: 20px 0 0 20px;
+	padding-bottom: 0.1px;
+	background: lightgreen;
+	box-shadow: 0px 0px 1px 1px #212121;
+}
+
+#content #loginform #stafflogin #staffloginform h3{
+	font-size: 25px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #455863;
+	background: #fff;
+}
+
+#content #loginform #stafflogin #staffloginform p{
+	font-size: 15px;
+	color: red;
+}
+
+#content #loginform #stafflogin #staffloginform input[type=text], input[type=password]{
+	width: 370px;
+	height: 30px;
+	padding-left: 20px;
+	margin-top: 15px;
+	margin-left: 15px;
+	font-size: 18px;
+	color: #667D8B;
+	border-radius: 5px;
+	border: none;
+}
+
+
+#content #loginform #stafflogin #staffloginform select{
+	width: 370px;
+	height: 30px;
+	padding-left: 20px;
+	margin-top: 20px;
+	margin-left: 15px;
+	font-size: 18px;
+	color: #667D8B;
+	border-radius: 5px;
+	border: none;
+}
+
+#content #loginform #stafflogin #staffloginform select option{
+	padding-left: 20px;
+}
+
+#content #loginform #stafflogin #staffloginform input[type=button]{
+	display: block;
+	width: 150px;
+	height: 35px;
+	margin: 25px auto;
+	background: #455863;
+	border: none;
+	cursor: pointer;
+	font-size: 15px;
+	color: white;
+	border-radius: 5px;
+	font-weight: bold;
+}

@@ -1,0 +1,54 @@
+#content #orderreport{
+	width: 1000px;
+	min-height: 500px;
+	float: left;
+}
+
+#content #orderreport h1{
+	background: #00c853;
+	color: #fff;
+	padding-left: 10px;
+}
+
+#content #orderreport table{
+	margin: 20px;
+  	border-spacing: 1px; 
+  	background: #16A085;
+}
+
+#content #orderreport th { 
+  color: white;
+  padding: 8px; 
+}
+
+#content #orderreport table td{
+	background: white; 
+  	border-collapse: collapse;
+  	font-size: 17px;
+  	padding: 8px;
+  	font-family: "Arial";
+  	text-align: center;
+}
+
+#content #orderreport table td button{
+	background: #D50000;
+	width: 100px;
+	height: 30px;
+	color: #fff;
+	font-family: "Arial";
+	border: none;
+	cursor: pointer;
+}
+
+#content #orderreport table td .confirm{
+	margin-right: 15px;
+	background: #00c853;
+}
+
+#content #orderreport table td .confirm:hover{
+	background: green;
+}
+
+#content #orderreport table td button:hover{
+	background: red;
+}

@@ -1,0 +1,93 @@
+#content #sidebar{
+	width: 200px;
+	padding-left: 5px;
+	float: left;
+}
+
+#content #sidebar #partners{
+	width: 180px;
+	height: 350px;
+	margin-right: 20px;
+	background: #fff;
+	box-shadow: 0px 0px 6px 1px #78909c;
+}
+
+#content .title{
+	width: 180px;
+	height: 40px;
+	background: #009688;
+}
+
+#content .title img{
+	width: 40px;
+	height: 40px;
+	margin: 0px 10px;
+	float: left;
+}
+
+#content .title h2{
+	font-size: 18px;
+	line-height: 40px;
+	font-weight: normal;
+	font-family: "Rockwell";
+	float: left;
+}
+
+#content #partners ul{
+	margin-left: 30px;
+	margin-top: 10px;
+	font-family: "Microsoft Sans Serif";
+}
+
+#content #partners ul li{
+	margin-top: 15px;
+}
+
+#content #partners ul li a{
+	font-size: 15px;
+	text-decoration: none;
+	color: #000;
+}
+
+#content #partners ul li a span{
+	color: red;
+}
+
+#content #partners ul li a:hover{
+	text-decoration: underline;
+}
+
+
+#content #useful{
+	width: 180px;
+	height: 180px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	background: #fff;
+	box-shadow: 0px 0px 6px 1px #78909c;
+}
+
+#content #useful ul{
+	margin-left: 30px;
+	margin-top: 10px;
+	font-family: "Microsoft Sans Serif";
+}
+
+#content #useful ul li{
+	margin-top: 10px;
+}
+
+#content #useful ul li a{
+	font-size: 15px;
+	text-decoration: none;
+	color: #000;
+}
+
+#content #useful ul li a span{
+	color: red;
+}
+
+#content #useful ul li a:hover{
+	text-decoration: underline;
+}

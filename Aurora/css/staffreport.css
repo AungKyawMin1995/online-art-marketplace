@@ -1,0 +1,44 @@
+#content #staffreport{
+	width: 1000px;
+	min-height: 500px;
+	float: left;
+}
+
+#content #staffreport h1{
+	background: #00c853;
+	color: #fff;
+	padding-left: 10px;
+}
+
+#content #staffreport table{
+	margin: 20px;
+  	border-spacing: 1px; 
+  	background: #16A085;
+}
+
+#content #staffreport th { 
+  color: white;
+  padding: 8px; 
+}
+
+#content #staffreport table td{
+	background: white; 
+  	border-collapse: collapse;
+  	font-size: 17px;
+  	padding: 8px;
+  	font-family: "Arial";
+}
+
+#content #staffreport table td button{
+	background: #D50000;
+	width: 100px;
+	height: 30px;
+	color: #fff;
+	font-family: "Arial";
+	border: none;
+	cursor: pointer;
+}
+
+#content #staffreport table td button:hover{
+	background: red;
+}

@@ -1,0 +1,47 @@
+header #logo{
+	width: 350px;
+	height: 100px;
+	margin-top: 30px;
+	margin-left: 70px;
+	
+}
+
+header #logo img{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+header #logo h1{
+	font-size: 60px;
+	line-height: 100px;
+	margin-left: 15px;
+	float: left;
+	color: white;
+}
+
+header ul{
+	margin-left: 80px;
+	margin-top: 35px;
+	list-style: none;
+}
+
+header ul li{
+	padding: 0 20px;
+	height: 50px;
+	line-height: 50px;
+	float: left;
+	text-align: center;
+	background: #1ABC9C;
+}
+
+header ul li a{
+	font-family: "Helvetica";
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}
+
+header ul li a:hover{
+	text-decoration: underline;
+}

@@ -1,0 +1,115 @@
+#content #reportform{
+	width: 	1000px;
+	height: 550px;
+	float: left;
+}
+
+#content #reportform #ro{
+	width: 313.3px;
+	height: 360px;
+	margin: 40px auto;
+}
+
+#content #reportform #bo{
+	position: relative;
+	width: 313.3px;
+	height: 100px;
+	margin-top: 30px;
+	float: left;
+	color: #fff;
+}
+
+#content #reportform #bo:first-child{
+	margin: 0;
+}
+
+#content #reportform #bo a{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+#bo img{
+	width: 100px;
+	height: 80px;
+	float: left;
+	margin: 10px 0;
+	padding: 0 5px;
+	border-right: 1px solid black;
+}
+
+.order{
+	background: #00c853;
+}
+
+.drawing{
+	background: #0288d1;
+}
+
+.income{
+	background: #e53935;
+}
+
+.order span{
+	font-size: 28px;
+	line-height: 100px;
+	margin-left: 20px;
+}
+
+.order:hover{
+	background: green;
+}
+
+.drawing span{
+	font-size: 28px;
+	line-height: 100px;
+	margin-left: 5px;
+}
+
+.drawing:hover{
+	background: blue;
+}
+
+.income span{
+	font-size: 23px;
+	line-height: 100px;
+	margin-left: 2px;
+}
+
+.income:hover{
+	background: red;
+}
+
+
+#content #report{
+	position: relative;
+	text-align: center;
+	font-family: "Arial";
+	width: 150px;
+	height: 45px;
+	color: #fff;
+	background: #00bcd4;
+	border-radius: 2px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+#content #report:hover{
+	color: #fff;
+	background: #004d40;
+}
+
+#content #report p{
+	line-height: 45px;
+	font-weight: bold;
+}
+
+#content #report a{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
